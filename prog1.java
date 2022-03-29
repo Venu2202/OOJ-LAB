@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class quadric {
+public class prog1 {
     public static void main(String args[])
     {
         double a,b,c,result;
