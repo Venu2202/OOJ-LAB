@@ -97,7 +97,7 @@ class SavAcc extends Account
         System.out.println("Balance: " + balance);
     }
 }
-public class Bank
+public class prog5
 {
     public static void main(String[] args)
     {
